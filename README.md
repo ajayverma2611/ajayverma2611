@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ajay Verma</h1>
+<h1 align="center">Hi 👋, I'm Ajay Kumar Verma</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="center">
@@ -20,10 +20,10 @@
 ## 🚀 Languages and Tools:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,express,mongodb,docker,kubernetes,git,github,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,nodejs,express,mongodb,docker,kubernetes,git,github,tailwind,mysql" />
 </p>
 
----
+---S
 
 ## 🧮 LeetCode Stats & Heatmap
 

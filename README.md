@@ -52,6 +52,14 @@
 
 ---
 
+## 🧮 LeetCode Stats & Heatmap
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/AjayVerma26?theme=dark&font=baloo&ext=heatmap" />
+</p>
+
+---
+
 ## 🔗 Connect with me
 
 <p align="center">
